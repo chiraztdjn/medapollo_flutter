@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "610656080653",
+    "project_id": "medapollo-4030e",
+    "storage_bucket": "medapollo-4030e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:610656080653:android:bce7466b85b4e1d2559644",
+        "android_client_info": {
+          "package_name": "com.example.medapollo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "610656080653-lpc0dtp3bl9hnvvk53e025v577mffm4u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD_t8aK_jR2oZJE9H5BD_LfsI4rbYi3tlA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "610656080653-lpc0dtp3bl9hnvvk53e025v577mffm4u.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

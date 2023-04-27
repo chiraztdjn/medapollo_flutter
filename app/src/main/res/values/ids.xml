@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="email" type="id">string</item>
+    <item name="loginbtn" type="id">string</item>
+    <item name="loggedinoption" type="id">dtring</item>
+    <item name="registerbtn" type="id">string</item>
+</resources>
